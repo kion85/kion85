@@ -13,11 +13,15 @@
 
 рассматриваю всякие языки программирования по типу :
 
-![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)
 
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
 
-![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+
 
 ну в целом все что я изучаю,смотрю по ним видео материал и учусь,так же в свободное время смотрю канал Merion Academy (рекомендую для тех кто хочет пройти их курсы)
 
@@ -27,7 +31,8 @@
 есть три роутера RV6699-rostelecom s1010-lte 4g (5g) на ростелекомовском стоит OpenWrt [https://openwrt.org/]
 
 
-на ноуте стоит виндовс и мой любимчик, ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)
+на ноуте стоит виндовс и мой любимчик, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+
 
  **как меня найти?**
  
