@@ -33,7 +33,7 @@
  
 посетить мой ютуб и гитлаб,туда публикую видео и проги,буду рад каждому
 
-[youtube.com/@linux-nedoubunter]
+[htts://youtube.com/@linux-nedoubunter]
 
 
 
