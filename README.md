@@ -13,27 +13,27 @@
 
 рассматриваю всякие языки программирования по типу :
 
-![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) |
+![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)
 
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) |
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
 
-![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) |
+![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)
 
 ну в целом все что я изучаю,смотрю по ним видео материал и учусь,так же в свободное время смотрю канал Merion Academy (рекомендую для тех кто хочет пройти их курсы)
 
 
 играю ли я в игры? нет не играю,если играю до дома редко,в школе да могу играть,а так время уделяю только на ютуб и видео
 
-есть три роутера RV6699-rostelecom s1010-lte 4g (5g) на ростелекомовском стоит ![OpenWrt](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) |
+есть три роутера RV6699-rostelecom s1010-lte 4g (5g) на ростелекомовском стоит OpenWrt [https://openwrt.org/]
 
 
-на ноуте стоит виндовс и мой любимчик, ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) |
+на ноуте стоит виндовс и мой любимчик, ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)
 
  **как меня найти?**
  
 посетить мой ютуб и гитлаб,туда публикую видео и проги,буду рад каждому
 
-https://youtube.com/@linux-nedoubunter
+[https://youtube.com/@linux-nedoubunter]
 
 
 
