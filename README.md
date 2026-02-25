@@ -13,27 +13,27 @@
 
 рассматриваю всякие языки программирования по типу :
 
-![C++](https://img.shields.io)
+![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) |
 
-![Python](https://img.shields.io)
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) |
 
-![C](https://img.shields.io)
+![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) |
 
 ну в целом все что я изучаю,смотрю по ним видео материал и учусь,так же в свободное время смотрю канал Merion Academy (рекомендую для тех кто хочет пройти их курсы)
 
 
 играю ли я в игры? нет не играю,если играю до дома редко,в школе да могу играть,а так время уделяю только на ютуб и видео
 
-есть три роутера RV6699-rostelecom s1010-lte 4g (5g) на ростелекомовском стоит ![OpenWrt](https://img.shields.io)
+есть три роутера RV6699-rostelecom s1010-lte 4g (5g) на ростелекомовском стоит ![OpenWrt](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) |
 
 
-на ноуте стоит виндовс и мой любимчик, ![Linux](https://img.shields.io)
+на ноуте стоит виндовс и мой любимчик, ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) |
 
  **как меня найти?**
  
 посетить мой ютуб и гитлаб,туда публикую видео и проги,буду рад каждому
 
-[https://youtube.com/@linux-nedoubunter]
+https://youtube.com/@linux-nedoubunter
 
 
 
