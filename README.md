@@ -38,7 +38,8 @@
  
 посетить мой ютуб и гитлаб,туда публикую видео и проги,буду рад каждому
 
-[https://youtube.com/@linux-nedoubunter]
+**YouTube:** [linux-nedoubunter](https://youtube.com/@linux-nedoubunter)
+**GitLab:**  [kion85](https://gitlab.com/kion85)
 
 
 
