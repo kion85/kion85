@@ -28,8 +28,8 @@
 
 играю ли я в игры? нет не играю,если играю до дома редко,в школе да могу играть,а так время уделяю только на ютуб и видео
 
-есть три роутера RV6699-rostelecom s1010-lte 4g (5g) на ростелекомовском стоит OpenWrt <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/OpenWrt/OpenWrt-original.svg" width="40" height="40" alt="OpenWrt" />
-
+есть три роутера RV6699-rostelecom s1010-lte 4g (5g) на ростелекомовском стоит OpenWrt 
+[https://openwrt.org/]
 
 на ноуте стоит виндовс и мой любимчик, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
 
