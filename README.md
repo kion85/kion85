@@ -26,15 +26,7 @@
 
 рассматриваю всякие языки программирования по типу :
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,c++.c,python,linux)](https://skillicons.dev)
 
 ## ну в целом все что я изучаю,смотрю по ним видео материал и учусь,так же в свободное время смотрю канал Merion Academy (рекомендую для тех кто хочет стать настоящим линуксоидом,сетевым инженером или получить сертификат CCNA)
 
