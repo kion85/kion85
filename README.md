@@ -26,7 +26,7 @@
 
 рассматриваю всякие языки программирования по типу :
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,c plus plus,c,python,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,cplus,c,python,linux)](https://skillicons.dev)
 
 ## ну в целом все что я изучаю,смотрю по ним видео материал и учусь,так же в свободное время смотрю канал Merion Academy (рекомендую для тех кто хочет стать настоящим линуксоидом,сетевым инженером или получить сертификат CCNA)
 
