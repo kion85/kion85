@@ -25,21 +25,11 @@
 2. ### что я делаю в жизни целом
 
 
-
 рассматриваю всякие языки программирования по типу :
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,cpp,c,python)](https://skillicons.dev)
 
 ## ну в целом все что я изучаю,смотрю по ним видео материал и учусь,так же в свободное время смотрю канал Merion Academy (рекомендую для тех кто хочет стать настоящим линуксоидом,сетевым инженером или получить сертификат CCNA)
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kion85&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kion85&layout=compact&theme=radical" />
-</p>
 
 
 играю ли я в игры? нет не играю,если играю до дома редко,в школе да могу играть,а так время уделяю только на ютуб и видео
