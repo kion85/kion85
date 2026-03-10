@@ -34,12 +34,13 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kion85&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kion85&show_icons=true&theme=radical" alt="Статистика" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kion85&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kion85&layout=compact&theme=radical" alt="Языко" />
 </p>
+
 
 
 
