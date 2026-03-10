@@ -34,12 +34,7 @@
 
 
 ![статистика](https://github-readme-stats.vercel.app/api?username=kion85&show_icons=true&theme=radical)
-
-
-
-
 ![язэко](https://github-readme-stats.vercel.app/api/top-langs/?username=kion85&layout=compact&theme=radical)
-
 
 играю ли я в игры? нет не играю,если играю до дома редко,в школе да могу играть,а так время уделяю только на ютуб и видео
 
