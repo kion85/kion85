@@ -33,6 +33,7 @@
 ## ну в целом все что я изучаю,смотрю по ним видео материал и учусь,так же в свободное время смотрю канал Merion Academy (рекомендую для тех кто хочет стать настоящим линуксоидом,сетевым инженером или получить сертификат CCNA)
 
 ![статистика](https://github-readme-stats.vercel.app/api?username=kion85&show_icons=true&theme=radical)
+
 ![язэко](https://github-readme-stats.vercel.app/api/top-langs/?username=kion85&layout=compact&theme=radical)
 
 играю ли я в игры? нет не играю,если играю до дома редко,в школе да могу играть,а так время уделяю только на ютуб и видео
