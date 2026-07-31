@@ -44,7 +44,7 @@
  
 посетить мой ютуб и гитлаб,туда публикую видео и проги,буду рад каждому
 
-**YouTube:** [linux-nedoubunter](https://youtube.com/@linux-nedoubunter)
+**YouTube:** [linux-multigrub](https://youtube.com/@linux-multigrub)
 
 
 
