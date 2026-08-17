@@ -50,9 +50,6 @@
 
 **GitLab:**  [kion85](https://gitlab.com/kion85)
 
-**4pda:** [kion85]
-(https://4pda.to/forum/index.php?showuser=12374368)
-
-
+**4pda:** [kion85](https://4pda.to/forum/index.php?showuser=12374368)
 
 всем желаю opensource и добра!
